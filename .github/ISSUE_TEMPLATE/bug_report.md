@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve DBeaver
+about: Create a report to help us improve InterSystems Developers community
 title: ''
 labels: ''
 assignees: ''
